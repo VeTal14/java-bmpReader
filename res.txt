@@ -1,0 +1,4 @@
+ bfType: BM
+ bfSize: 19822820
+ bfReservedWords: first -  00, second - 0118
+ bfOffBits: 00040
