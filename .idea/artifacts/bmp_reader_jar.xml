@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bmp_reader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bmp_reader_jar</output-path>
+    <root id="archive" name="bmp_reader.jar">
+      <element id="module-output" name="bmp_reader" />
+    </root>
+  </artifact>
+</component>
